@@ -1,12 +1,11 @@
 # Developer-Portfolio-Landing-Page
 
 
-#Aim :
+#Title :
     Portfolio Project
 
 #Project Objective :
+    We will be building a developer portfolio landing page application using HTML, CSS, JS.
 
-    We will be building a developer portfolio landing page application using HTML CSS.
-
-#Tech stack Prerequisite:  
-    HTML, CSS
+#Technologies Used:  
+    HTML, CSS, JS
